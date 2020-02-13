@@ -26,6 +26,8 @@
 		<string>ChronoSync can synchronize, backup, and create bootable backups to almost anything you can connect to your Mac: select cloud services, other Macs, NAS drives, external drives, PC's or anything you can mount as a volume.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
+		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
+        	<string>True</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
